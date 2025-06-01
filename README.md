@@ -10,3 +10,5 @@
 📺 twitch.tv/frostnyaavt
 🌐 frostcatvt.carrd.co
 ```
+
+<img src="https://img.shields.io/badge/Twitch-5865F2?style=for-the-badge&logo=Twitch&logoColor=white" />
