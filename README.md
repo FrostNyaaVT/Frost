@@ -11,4 +11,7 @@
 🌐 frostcatvt.carrd.co
 ```
 
-<img src="https://img.shields.io/badge/Twitch-5865F2?style=for-the-badge&logo=Twitch&logoColor=white" />
+<a href="https://www.twitch.tv/frostnyaavt" target="_blank">
+  <img src="https://img.shields.io/badge/Twitch-5865F2?style=for-the-badge&logo=Twitch&logoColor=white" />
+</a>
+
