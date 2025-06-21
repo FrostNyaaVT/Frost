@@ -6,7 +6,7 @@
 ```
 ✨ Frostcat | 20 | (She/Her)
 🏳️‍⚧️ Trans • Streamer
-💖 Taken
+💖 Single
 📺 twitch.tv/frostnyaavt
 🌐 frostcatvt.carrd.co
 ```
